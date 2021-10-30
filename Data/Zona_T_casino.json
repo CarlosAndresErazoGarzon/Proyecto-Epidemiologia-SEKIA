@@ -1,0 +1,1152 @@
+[
+    {
+        "id": "ChIJa5sDzoqaP44Rorcr5vVy1a0",
+        "name": "Luckia Casino - biggest poker room in Bogot\u00e1",
+        "address": "Ac. 82 #12-50, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6684208,
+            "lng": -74.0533149
+        },
+        "rating": 4.3,
+        "rating_n": 787,
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    15,
+                    19,
+                    22,
+                    26,
+                    29,
+                    34,
+                    39,
+                    44,
+                    48,
+                    48,
+                    46,
+                    43,
+                    40,
+                    38
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    36,
+                    29,
+                    21,
+                    12,
+                    9,
+                    0,
+                    0,
+                    0,
+                    0,
+                    14,
+                    18,
+                    21,
+                    23,
+                    26,
+                    30,
+                    35,
+                    41,
+                    47,
+                    51,
+                    52,
+                    50,
+                    47,
+                    43,
+                    40
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    35,
+                    29,
+                    22,
+                    15,
+                    9,
+                    0,
+                    0,
+                    0,
+                    0,
+                    15,
+                    20,
+                    24,
+                    27,
+                    30,
+                    33,
+                    38,
+                    43,
+                    49,
+                    53,
+                    54,
+                    52,
+                    49,
+                    45,
+                    42
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    38,
+                    32,
+                    24,
+                    16,
+                    13,
+                    0,
+                    0,
+                    0,
+                    0,
+                    13,
+                    17,
+                    22,
+                    27,
+                    31,
+                    35,
+                    38,
+                    42,
+                    49,
+                    57,
+                    64,
+                    66,
+                    64,
+                    63,
+                    64
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    64,
+                    57,
+                    42,
+                    26,
+                    25,
+                    0,
+                    0,
+                    0,
+                    0,
+                    12,
+                    15,
+                    19,
+                    24,
+                    28,
+                    33,
+                    38,
+                    44,
+                    52,
+                    60,
+                    68,
+                    75,
+                    78,
+                    80,
+                    85
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    92,
+                    93,
+                    76,
+                    48,
+                    43,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10,
+                    14,
+                    18,
+                    23,
+                    28,
+                    33,
+                    38,
+                    44,
+                    52,
+                    61,
+                    70,
+                    79,
+                    86,
+                    92,
+                    96
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    100,
+                    97,
+                    86,
+                    66,
+                    42,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    9,
+                    10,
+                    10,
+                    11,
+                    13,
+                    15,
+                    17,
+                    20,
+                    21,
+                    21,
+                    19,
+                    17,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "time_spent": [
+            90,
+            270
+        ]
+    },
+    {
+        "id": "ChIJiRjTQvWaP44RTZYo5zirm4c",
+        "name": "Casino Rock'n Jazz",
+        "address": "Cl. 82 ##12-84, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666957300000001,
+            "lng": -74.05531959999999
+        },
+        "rating": 4.1,
+        "rating_n": 531,
+        "international_phone_number": "+57 601 5896000 ext. 1260",
+        "time_spent": [
+            45,
+            210
+        ]
+    },
+    {
+        "id": "ChIJ-RDEuoqaP44R_ssfD0YveT0",
+        "name": "Casino Broadway",
+        "address": "carrera 12 # 82 - 02 local 301-358, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6667746,
+            "lng": -74.0531218
+        },
+        "rating": 4.1,
+        "rating_n": 20,
+        "international_phone_number": "+57 601 5896000 ext. 1410",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    13,
+                    8,
+                    4,
+                    13,
+                    52,
+                    95,
+                    91,
+                    78,
+                    82,
+                    78,
+                    52,
+                    21,
+                    8,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    47,
+                    56,
+                    73,
+                    69,
+                    47,
+                    39,
+                    52,
+                    69,
+                    69,
+                    47,
+                    21,
+                    8,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    47,
+                    43,
+                    34,
+                    30,
+                    39,
+                    60,
+                    78,
+                    69,
+                    60,
+                    56,
+                    39,
+                    17,
+                    4,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    56,
+                    26,
+                    26,
+                    43,
+                    60,
+                    73,
+                    78,
+                    73,
+                    60,
+                    47,
+                    34,
+                    21,
+                    13,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    17,
+                    13,
+                    26,
+                    60,
+                    95,
+                    100,
+                    82,
+                    73,
+                    82,
+                    65,
+                    30,
+                    4,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    65,
+                    86,
+                    73,
+                    52,
+                    56,
+                    73,
+                    73,
+                    60,
+                    60,
+                    60,
+                    52,
+                    30,
+                    13,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    17,
+                    26,
+                    43,
+                    78,
+                    95,
+                    69,
+                    34,
+                    21,
+                    17,
+                    17,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJDdbhZ_WaP44Rgz5tdNLumO4",
+        "name": "Casinos El Dorado",
+        "address": "Cra. 14a #82-16, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6675588,
+            "lng": -74.05577989999999
+        },
+        "rating": 4.3,
+        "rating_n": 3
+    },
+    {
+        "id": "ChIJK4-3U_WaP44RFyb99cIlWFM",
+        "name": "Broadway Casino C.C Andino",
+        "address": "Cra. 12 #2, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666627000000001,
+            "lng": -74.05378
+        },
+        "rating": 4,
+        "rating_n": 21,
+        "international_phone_number": "+57 601 6169008",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    12,
+                    22,
+                    29,
+                    38,
+                    45,
+                    51,
+                    54,
+                    54,
+                    54,
+                    51,
+                    48,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    9,
+                    16,
+                    25,
+                    35,
+                    48,
+                    58,
+                    64,
+                    67,
+                    67,
+                    61,
+                    48,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    19,
+                    32,
+                    48,
+                    64,
+                    77,
+                    87,
+                    90,
+                    90,
+                    83,
+                    74,
+                    58,
+                    41,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    29,
+                    45,
+                    61,
+                    74,
+                    83,
+                    87,
+                    87,
+                    87,
+                    80,
+                    70,
+                    58,
+                    41,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    22,
+                    38,
+                    54,
+                    70,
+                    80,
+                    87,
+                    93,
+                    96,
+                    96,
+                    87,
+                    67,
+                    41,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    12,
+                    19,
+                    19,
+                    29,
+                    48,
+                    74,
+                    96,
+                    100,
+                    96,
+                    87,
+                    80,
+                    67,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    12,
+                    41,
+                    45,
+                    32,
+                    48,
+                    58,
+                    41,
+                    22,
+                    19,
+                    19,
+                    12,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJkSPq_l-aP44R81rMIZKD4dA",
+        "name": "Casino Mundo Fortuna Cc El Retiro",
+        "address": "Cl. 82 #75, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.665980999999999,
+            "lng": -74.053781
+        }
+    },
+    {
+        "id": "ChIJT2janPeaP44Rr-cPVQdNd1g",
+        "name": "Casino",
+        "address": "Cra. 26 #78-24, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6687386,
+            "lng": -74.0644215
+        },
+        "rating": 4.1
+    },
+    {
+        "id": "ChIJK7LA-F-aP44RPi75uAHg4FY",
+        "name": "Bingo Casino",
+        "address": "Cl. 82 #12-84, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.66612,
+            "lng": -74.05395000000001
+        },
+        "rating": 3.2,
+        "rating_n": 5
+    },
+    {
+        "id": "ChIJk4WKt1yaP44RncyBcH0xXgg",
+        "name": "Start Casino Games",
+        "address": "Cl. 72 #10-07, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6565005,
+            "lng": -74.05817569999999
+        },
+        "rating": 2.5
+    },
+    {
+        "id": "ChIJNXZsc0aaP44Rxln5gfYf5qg",
+        "name": "Casino Las Vegas",
+        "address": "Cl. 64 #1346, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.651085,
+            "lng": -74.063678
+        },
+        "rating": 3.3,
+        "rating_n": 4,
+        "international_phone_number": "+57 601 2356308"
+    },
+    {
+        "id": "ChIJs0qzyLqbP44RsLGpLqAENRw",
+        "name": "Casino Broadway",
+        "address": "Cl. 63 ## 13 - 54, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.649665700000001,
+            "lng": -74.0641833
+        },
+        "rating": 4.2,
+        "rating_n": 30,
+        "international_phone_number": "+57 601 5896000 ext. 1530",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    28,
+                    38,
+                    49,
+                    60,
+                    70,
+                    76,
+                    79,
+                    77,
+                    72,
+                    63,
+                    53,
+                    42,
+                    31,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    27,
+                    35,
+                    42,
+                    49,
+                    55,
+                    63,
+                    71,
+                    76,
+                    74,
+                    66,
+                    54,
+                    42,
+                    31,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    42,
+                    54,
+                    64,
+                    72,
+                    76,
+                    78,
+                    78,
+                    76,
+                    71,
+                    63,
+                    52,
+                    41,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    28,
+                    37,
+                    47,
+                    57,
+                    64,
+                    68,
+                    70,
+                    71,
+                    70,
+                    65,
+                    56,
+                    45,
+                    38,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    24,
+                    34,
+                    44,
+                    53,
+                    60,
+                    68,
+                    77,
+                    89,
+                    100,
+                    98,
+                    84,
+                    63,
+                    47,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    21,
+                    26,
+                    31,
+                    36,
+                    42,
+                    48,
+                    53,
+                    56,
+                    56,
+                    53,
+                    46,
+                    38,
+                    33,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    7,
+                    14,
+                    23,
+                    28,
+                    29,
+                    26,
+                    26,
+                    29,
+                    31,
+                    26,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJ0ZGOjVGaP44RTpEUnmggEb4",
+        "name": "CASINO LAS VEGAS",
+        "address": "Ak. 24 #66A-39, 7 Agosto, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.658072,
+            "lng": -74.0704456
+        },
+        "rating": 2.7,
+        "rating_n": 3
+    },
+    {
+        "id": "ChIJYWvBnlGaP44Ru9Fi7XvHdrk",
+        "name": "Casino ruta de la fortuna",
+        "address": "Ak. 24 #67-65, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6588709,
+            "lng": -74.06993419999999
+        },
+        "international_phone_number": "+57 310 7800833"
+    },
+    {
+        "id": "ChIJs6WFVv6aP44RsUjKQ0W7K4k",
+        "name": "Casino",
+        "address": "Cl. 73, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.669510499999999,
+            "lng": -74.074289
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 4756293"
+    },
+    {
+        "id": "ChIJ1cTxyMKaP44RvSNAfoysm-c",
+        "name": "BROADWAY casino",
+        "address": "local 335, Suba #98A-66, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.687848199999999,
+            "lng": -74.06464989999999
+        },
+        "international_phone_number": "+57 601 5896000"
+    },
+    {
+        "id": "ChIJvaw37VGaP44Roy6Ld7iFfYE",
+        "name": "Stars Casino Games",
+        "address": "Ak. 24 #66a-40, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.657789699999999,
+            "lng": -74.070241
+        },
+        "rating": 2,
+        "rating_n": 1
+    },
+    {
+        "id": "ChIJ1cTxyMKaP44RJJQsY4Js14g",
+        "name": "Quinpar Casino",
+        "address": "66, Suba #98a, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.687848199999999,
+            "lng": -74.06464989999999
+        },
+        "international_phone_number": "+57 601 5337240"
+    },
+    {
+        "id": "ChIJ217gfjeaP44R8cCWT-VaT6Y",
+        "name": "Casino Chapipremios",
+        "address": "Av. Caracas #5670, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.643858999999999,
+            "lng": -74.06553
+        },
+        "rating": 4,
+        "rating_n": 5
+    },
+    {
+        "id": "ChIJ_yiGbKSbP44R5efGKVUkwto",
+        "name": "Casino Broadway Iserra",
+        "address": "Tv. 55 ## 98A - 66 Local 326, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.688516799999999,
+            "lng": -74.06462379999999
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 5896000 ext. 1645"
+    },
+    {
+        "id": "ChIJP-amGH-bP44R6eC7nDO1Dho",
+        "name": "Casino Hollywood",
+        "address": "Cra 52 # 125 a - 59 Local 181, Bogot\u00e1, Colombia",
+        "types": [
+            "casino",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.642741099999999,
+            "lng": -74.0570932
+        },
+        "rating": 5,
+        "rating_n": 2,
+        "international_phone_number": "+57 316 5140791"
+    }
+]

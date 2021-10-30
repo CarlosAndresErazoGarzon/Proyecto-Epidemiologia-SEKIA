@@ -1,0 +1,742 @@
+[
+    {
+        "id": "ChIJ-YIWe_WaP44RKScc9_HTGJg",
+        "name": "Cafeter\u00eda Pandebono y Capuccino",
+        "address": "Cl. 81 #68, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666653999999999,
+            "lng": -74.055821
+        }
+    },
+    {
+        "id": "ChIJN7xaqoyaP44RhRP0u8n8JHw",
+        "name": "Cafeter\u00eda Oi Coffe",
+        "address": "Cra. 13a #75, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.671289899999999,
+            "lng": -74.053292
+        },
+        "rating": 3.3,
+        "rating_n": 3
+    },
+    {
+        "id": "ChIJbTvTOfWaP44RQnHqSCoyz9I",
+        "name": "Colo Coffee",
+        "address": "Cra. 13 #83 - 19, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6682415,
+            "lng": -74.0544863
+        },
+        "rating": 4.7,
+        "rating_n": 350,
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    27,
+                    49,
+                    63,
+                    66,
+                    62,
+                    62,
+                    68,
+                    77,
+                    80,
+                    77,
+                    66,
+                    53,
+                    37,
+                    22,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    15,
+                    38,
+                    62,
+                    71,
+                    59,
+                    43,
+                    40,
+                    51,
+                    62,
+                    62,
+                    50,
+                    32,
+                    16,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    13,
+                    37,
+                    71,
+                    93,
+                    93,
+                    83,
+                    79,
+                    84,
+                    86,
+                    83,
+                    71,
+                    54,
+                    37,
+                    22,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20,
+                    33,
+                    49,
+                    65,
+                    78,
+                    86,
+                    91,
+                    93,
+                    97,
+                    100,
+                    100,
+                    89,
+                    71,
+                    48,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    16,
+                    31,
+                    45,
+                    56,
+                    62,
+                    65,
+                    67,
+                    69,
+                    73,
+                    75,
+                    73,
+                    67,
+                    56,
+                    43,
+                    30,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    4,
+                    13,
+                    21,
+                    28,
+                    30,
+                    27,
+                    24,
+                    31,
+                    54,
+                    80,
+                    85,
+                    67,
+                    46,
+                    33,
+                    25,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    6,
+                    12,
+                    20,
+                    27,
+                    34,
+                    38,
+                    39,
+                    42,
+                    51,
+                    65,
+                    67,
+                    50,
+                    27,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJg9E8wl6aP44R2B9L57-0BxI",
+        "name": "Cafeter\u00eda Si\u00f3n",
+        "address": "Con Carrera 14, Local 5, Cl. 77 #13-45, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6628916,
+            "lng": -74.0579875
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 6401370"
+    },
+    {
+        "id": "ChIJk8e1y16aP44R9OA9iTPO2Ak",
+        "name": "Cafeteria y Frutera Punto 76",
+        "address": "Cl. 76, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6626351,
+            "lng": -74.05895670000001
+        },
+        "rating": 4.4,
+        "rating_n": 5
+    },
+    {
+        "id": "ChIJM3skj1maP44RFP936W4jj-w",
+        "name": "Cafeter\u00eda Irejo",
+        "address": "Cl. 73, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.661755100000001,
+            "lng": -74.0632363
+        }
+    },
+    {
+        "id": "ChIJ7fWFt1iaP44RWoNWZV0qQFY",
+        "name": "Cafeter\u00eda Y Fruteria Los \u00c1ngeles",
+        "address": "Cra. 19a, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.665207,
+            "lng": -74.0600642
+        }
+    },
+    {
+        "id": "ChIJdx7gk1eaP44RCPQDVB-fZXM",
+        "name": "Cafeter\u00eda",
+        "address": "14, Cl. 74 #24, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6656477,
+            "lng": -74.06746520000002
+        }
+    },
+    {
+        "id": "ChIJh1CXv_eaP44RaEIIiHelKmU",
+        "name": "Cafeteria Leidy",
+        "address": "Bogot\u00e1, Bogota, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.667733799999999,
+            "lng": -74.06365749999999
+        }
+    },
+    {
+        "id": "ChIJqa505luaP44R-iA-4Idxym0",
+        "name": "Cafeter\u00eda",
+        "address": "Cra. 15 #72-62, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.659798200000001,
+            "lng": -74.061037
+        },
+        "rating": 4
+    },
+    {
+        "id": "ChIJ92X9x_eaP44RPFxEOFzuE1Y",
+        "name": "Cafeter\u00eda La 78 Y Algo M\u00e1s",
+        "address": "Cl. 78 ## 22-76, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6676517,
+            "lng": -74.06307170000001
+        },
+        "international_phone_number": "+57 313 8685923"
+    },
+    {
+        "id": "ChIJIcAN_1eaP44RrHm_DSjfha0",
+        "name": "Cafeter\u00eda Pili",
+        "address": "Cl. 75 #24-15, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666650499999999,
+            "lng": -74.065922
+        },
+        "rating": 4.2,
+        "rating_n": 9,
+        "international_phone_number": "+57 601 2255980"
+    },
+    {
+        "id": "ChIJmTemc1yaP44RPHhFlj4rIiY",
+        "name": "Cafeter\u00eda Black",
+        "address": "Cl. 74 #11-85, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.659920999999999,
+            "lng": -74.05891290000001
+        }
+    },
+    {
+        "id": "ChIJX0uSA5OaP44RgZZCDpkmVpg",
+        "name": "Cafeter\u00eda",
+        "address": "Cl. 93b #1534, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.678869999999999,
+            "lng": -74.05105
+        },
+        "rating": 4.5
+    },
+    {
+        "id": "ChIJKWC0NfiaP44R_GCxLBK5GnQ",
+        "name": "Cafeter\u00eda Golosita 77 Aguila",
+        "address": "Cl. 77 #27A-64, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.668792799999999,
+            "lng": -74.0664737
+        },
+        "rating": 4.5,
+        "rating_n": 20,
+        "international_phone_number": "+57 601 6606438"
+    },
+    {
+        "id": "ChIJY7__yEKaP44RRG-FWtF4_EM",
+        "name": "Caf\u00e9 Devoci\u00f3n",
+        "address": "Ak. 7 #72 - 41, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.655762199999999,
+            "lng": -74.0551828
+        },
+        "rating": 4.6,
+        "rating_n": 262,
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    8,
+                    20,
+                    13,
+                    1,
+                    1,
+                    3,
+                    11,
+                    21,
+                    29,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    4,
+                    11,
+                    17,
+                    20,
+                    24,
+                    28,
+                    35,
+                    42,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3,
+                    11,
+                    19,
+                    26,
+                    31,
+                    34,
+                    36,
+                    40,
+                    42,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    11,
+                    16,
+                    14,
+                    18,
+                    31,
+                    37,
+                    31,
+                    19,
+                    12,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    16,
+                    25,
+                    29,
+                    28,
+                    25,
+                    22,
+                    25,
+                    33,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    6,
+                    17,
+                    26,
+                    31,
+                    33,
+                    33,
+                    36,
+                    40,
+                    43,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2,
+                    10,
+                    26,
+                    52,
+                    83,
+                    100,
+                    89,
+                    62,
+                    37,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJC7r94eyaP44R4bGDb1rgxeY",
+        "name": "CAFETER\u00cdA DONDE ALEX",
+        "address": "Cl. 93 #19-18, Localidad de Chapinero, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6785855,
+            "lng": -74.055159
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+57 311 5891452"
+    },
+    {
+        "id": "ChIJQ0AYQlqaP44RubEFK0Z_wmk",
+        "name": "Cafeter\u00eda Lili",
+        "address": "Cl. 71a #1722, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6598457,
+            "lng": -74.06370749999999
+        }
+    },
+    {
+        "id": "ChIJfWCSL_-aP44RwHwNEmHrmxc",
+        "name": "cafeter\u00eda",
+        "address": "95, Cra 29c #73, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.66839,
+            "lng": -74.0720284
+        },
+        "rating": 5
+    },
+    {
+        "id": "ChIJrfrLmfmaP44RklO4WKvbnlk",
+        "name": "Cafeter\u00eda desayunos empanadas",
+        "address": "01, Cl. 78 #28B, Barrios Unidos, Bogot\u00e1, Colombia",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.670532999999999,
+            "lng": -74.0675222
+        },
+        "rating": 3,
+        "international_phone_number": "+57 317 3735602"
+    }
+]

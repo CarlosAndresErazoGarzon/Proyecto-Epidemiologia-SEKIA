@@ -1,0 +1,601 @@
+[
+    {
+        "id": "ChIJCZxgQPWaP44R3uCr03P8YFs",
+        "name": "La Mandalera",
+        "address": "Carrera 13 #82-49 Local 116 Edificio PLAZA Prestigio, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.667391299999999,
+            "lng": -74.0548132
+        },
+        "international_phone_number": "+57 310 3495568"
+    },
+    {
+        "id": "ChIJf3Q-M_WaP44RPbAoZ9pIgXw",
+        "name": "Loto Perfumes y Esencias",
+        "address": "Cra. 12a #66, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6678251,
+            "lng": -74.0535932
+        }
+    },
+    {
+        "id": "ChIJfRHyMvWaP44RXBxMFXQLE4g",
+        "name": "V\u00eda Baloto Via Citibank Andino Bogota DC",
+        "address": "Cra. 12a #83-75, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6680511,
+            "lng": -74.0537531
+        },
+        "international_phone_number": "+57 1 800 0956886"
+    },
+    {
+        "id": "ChIJLcxYa_WaP44ROfdfO0nYTQ0",
+        "name": "Androgina Dual Fashion",
+        "address": "Carrera 14 No 82 - 22 Zona Rosa, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "clothing_store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6674533,
+            "lng": -74.05523579999999
+        },
+        "rating": 4,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 7027672"
+    },
+    {
+        "id": "ChIJzeNVW_WaP44RCyEHb3sXe1I",
+        "name": "Chili Beans",
+        "address": "Cl. 82 #50, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6667105,
+            "lng": -74.054231
+        },
+        "rating": 1,
+        "rating_n": 2
+    },
+    {
+        "id": "ChIJUbUuWPWaP44RoaQaCejwEvs",
+        "name": "Two Too",
+        "address": "Cl. 82 #12-84, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666901299999999,
+            "lng": -74.05454689999999
+        }
+    },
+    {
+        "id": "ChIJ3W0nWvWaP44RGaaUG6Eu77o",
+        "name": "Zona Kamasutra",
+        "address": "Cl. 82 #12-21, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666507299999999,
+            "lng": -74.0543807
+        },
+        "international_phone_number": "+57 314 4462272"
+    },
+    {
+        "id": "ChIJo6mWiVuaP44RgXKK8oEcBGs",
+        "name": "C\u00e1mara de Comercio e Integraci\u00f3n Colombo Mexicana",
+        "address": "Cra. 13 #7334, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.659722200000001,
+            "lng": -74.0595025
+        },
+        "international_phone_number": "+57 316 2201109"
+    },
+    {
+        "id": "ChIJ3dN0MvWaP44RhBSnVa6o4Ps",
+        "name": "Kielh's",
+        "address": "# a 83-99, Cra. 12a #831, Bogot\u00e1, Colombia",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6680566,
+            "lng": -74.0537866
+        }
+    },
+    {
+        "id": "ChIJCZbTh1-aP44RnjHmWjjOy-w",
+        "name": "Pepe Ganga C.C. Atlantis",
+        "address": "Calle 81 # 13-05 Local 206, Bogot\u00e1, Colombia",
+        "types": [
+            "store",
+            "home_goods_store",
+            "point_of_interest",
+            "clothing_store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666687799999999,
+            "lng": -74.05318930000001
+        },
+        "rating": 3.7,
+        "rating_n": 14,
+        "international_phone_number": "+57 601 4395488",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    34,
+                    38,
+                    38,
+                    38,
+                    40,
+                    41,
+                    39,
+                    33,
+                    26,
+                    17,
+                    10,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    35,
+                    43,
+                    46,
+                    45,
+                    44,
+                    43,
+                    42,
+                    38,
+                    31,
+                    22,
+                    14,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    35,
+                    43,
+                    45,
+                    45,
+                    46,
+                    48,
+                    48,
+                    44,
+                    36,
+                    26,
+                    16,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    37,
+                    48,
+                    52,
+                    53,
+                    53,
+                    54,
+                    51,
+                    46,
+                    37,
+                    27,
+                    17,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    52,
+                    56,
+                    54,
+                    54,
+                    58,
+                    65,
+                    67,
+                    60,
+                    45,
+                    27,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    37,
+                    53,
+                    64,
+                    68,
+                    74,
+                    85,
+                    97,
+                    100,
+                    86,
+                    61,
+                    35,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    22,
+                    36,
+                    45,
+                    51,
+                    60,
+                    69,
+                    71,
+                    61,
+                    43,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ChIJNaa7O_WaP44RzQjr3bfZxcU",
+        "name": "Bretton Fashion Studio",
+        "address": "Carrera 13 # 82 - 49 L 114, Plaza Prestigio, Bogot\u00e1 D.C, Cundinamarca, Colombia",
+        "types": [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.667307,
+            "lng": -74.054767
+        },
+        "international_phone_number": "+57 310 2202003"
+    },
+    {
+        "id": "ChIJjWg5SPWaP44RTHDTnKWrnZ8",
+        "name": "TOTTO Flagship Store, Zona T",
+        "address": "Cl. 83 #1249, Bogot\u00e1, Colombia",
+        "types": [
+            "clothing_store",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.667338,
+            "lng": -74.0541263
+        },
+        "rating": 4.7,
+        "rating_n": 220,
+        "international_phone_number": "+57 601 6102635",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    5,
+                    22,
+                    27,
+                    16,
+                    11,
+                    16,
+                    27,
+                    38,
+                    38,
+                    27,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    61,
+                    27,
+                    44,
+                    88,
+                    77,
+                    33,
+                    16,
+                    22,
+                    22,
+                    16,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    22,
+                    38,
+                    55,
+                    66,
+                    72,
+                    61,
+                    44,
+                    38,
+                    38,
+                    38,
+                    27,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    33,
+                    38,
+                    38,
+                    33,
+                    33,
+                    38,
+                    44,
+                    50,
+                    44,
+                    33,
+                    16,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    27,
+                    33,
+                    44,
+                    50,
+                    66,
+                    88,
+                    100,
+                    83,
+                    44,
+                    16,
+                    11,
+                    16,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    22,
+                    27,
+                    38,
+                    44,
+                    50,
+                    61,
+                    66,
+                    66,
+                    66,
+                    55,
+                    38,
+                    27,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ]
+    }
+]

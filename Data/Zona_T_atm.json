@@ -1,0 +1,541 @@
+[
+    {
+        "id": "ChIJQ86XYfWaP44RqG8rKiinr40",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "Cl. 81 ## 13-05, Bogot\u00e1, D.C, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6663266,
+            "lng": -74.05537319999999
+        },
+        "rating": 4,
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJpc7YV_WaP44R2GK7bkYhSd0",
+        "name": "Cajero Corpbanca",
+        "address": "1er piso, Calle 82 interior centro comercial el retiro #11-75, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6661341,
+            "lng": -74.0541121
+        },
+        "international_phone_number": "+57 1 900 1115111"
+    },
+    {
+        "id": "ChIJ31DrtYqaP44RFxBAEjFfsiE",
+        "name": "Servibanca",
+        "address": "Cra. 11 #82-71, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6673716,
+            "lng": -74.053235
+        },
+        "rating": 5,
+        "international_phone_number": "+57 601 3444600"
+    },
+    {
+        "id": "ChIJQ1YRA4abP44RyYXBCLFXUAQ",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "D.C, Cra. 11 ## 82-71, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666866199999999,
+            "lng": -74.05268509999999
+        },
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJtaGR7fSaP44RZEMy6JsoU_g",
+        "name": "Cajero Autom\u00e1tico Servibanca",
+        "address": "Ac. 85 #1529, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.669743100000001,
+            "lng": -74.0556732
+        },
+        "international_phone_number": "+57 601 3444600"
+    },
+    {
+        "id": "ChIJZfKxUR2bP44Ra1c7ojJE-L0",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "KR 11 CL 90 LOCAL 1 C.C. URB PLZ BOGOTA D.C, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.672078,
+            "lng": -74.0490355
+        },
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJO_MtGwWbP44RFeio48QhY7Y",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "AV 13 # 79-32 BOGOTA D.C, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.665014,
+            "lng": -74.055898
+        },
+        "rating": 1,
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJoeeCnJWbP44RvjiHS22IISs",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "D.C, Cra. 16a ## 84-81, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.670442899999999,
+            "lng": -74.0563605
+        },
+        "rating": 4.3,
+        "rating_n": 4,
+        "international_phone_number": "+57 601 3820000",
+        "populartimes": [
+            {
+                "name": "Monday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    76,
+                    97,
+                    88,
+                    77,
+                    80,
+                    76,
+                    58,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Tuesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    76,
+                    93,
+                    88,
+                    79,
+                    77,
+                    72,
+                    52,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Wednesday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    82,
+                    81,
+                    68,
+                    72,
+                    83,
+                    77,
+                    52,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Thursday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    83,
+                    90,
+                    92,
+                    95,
+                    89,
+                    64,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Friday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    51,
+                    74,
+                    93,
+                    100,
+                    92,
+                    73,
+                    50,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Saturday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Sunday",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "time_spent": [
+            20,
+            20
+        ]
+    },
+    {
+        "id": "ChIJI4pJszibP44RtcqThk-p0SI",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "D.C, Cra. 15 ## 77-42, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.66411,
+            "lng": -74.05828699999999
+        },
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJ3f1e-F-aP44Ri8vdw-W2UrQ",
+        "name": "Cajero Citi Bank",
+        "address": "Primer piso, Cl. 82 #11-75, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6661148,
+            "lng": -74.0540752
+        },
+        "rating": 5,
+        "rating_n": 2,
+        "international_phone_number": "+57 1 800 0527000"
+    },
+    {
+        "id": "ChIJsXf_o1qbP44RlSrXcogKNMY",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "KR 15 # 88-64 LOCAL 101 TRR ZIMMA BOGOTA D.C, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.673646,
+            "lng": -74.053417
+        },
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJKUwbzvSaP44RxvkVpzbV_WU",
+        "name": "BBVA Cajero Country",
+        "address": "Cl 85 #13-66, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.669340999999999,
+            "lng": -74.053927
+        },
+        "international_phone_number": "+57 1 800 0935777"
+    },
+    {
+        "id": "ChIJCyH1sIqaP44RevI5Icg8_es",
+        "name": "ATM Citibank Centro Comercial Andino",
+        "address": "# Piso 4, Cra. 11 #82-71, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.666964399999999,
+            "lng": -74.052875
+        },
+        "rating": 4.7,
+        "rating_n": 3
+    },
+    {
+        "id": "ChIJk_Qp_o2aP44Rw4hRjo8XnQo",
+        "name": "Cajero Servibanca",
+        "address": "a 99,, Cl. 93a #111, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.675858799999999,
+            "lng": -74.0476523
+        }
+    },
+    {
+        "id": "ChIJnR-_EK-bP44R03geWufZdlg",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "D.C, Cra. 11 ## 87-51, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.670637499999999,
+            "lng": -74.0497996
+        },
+        "rating": 5,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJNy-ibIGbP44RHXOyO1Lhi_s",
+        "name": "Cajero Autom\u00e1tico Banco de Bogot\u00e1",
+        "address": "D.C, Ac. 82 ## 7 - 63, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.663728999999999,
+            "lng": -74.04938299999999
+        },
+        "rating": 1,
+        "rating_n": 1,
+        "international_phone_number": "+57 601 3820000"
+    },
+    {
+        "id": "ChIJ3xbFh1-aP44RJH5rIf9_1Jw",
+        "name": "ATM Citibank Atlantis Plaza",
+        "address": "# a 13-99,, Cl. 81 #131, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6661328,
+            "lng": -74.05576839999999
+        }
+    },
+    {
+        "id": "ChIJceEXOI2aP44R-CI5Ie4uvYQ",
+        "name": "Davivienda ATM",
+        "address": "Cra. 15 #88-64, Bogot\u00e1, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6740454,
+            "lng": -74.0530868
+        }
+    },
+    {
+        "id": "ChIJTfyTA2CaP44R3LpzL1AE2VM",
+        "name": "Bancolombia Cajero",
+        "address": "Cl. 87 ##10-93, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6695996,
+            "lng": -74.0500551
+        }
+    },
+    {
+        "id": "ChIJuTcuyNqbP44RK52K-mT1nJ0",
+        "name": "Cajero Banco Caja Social Centro Comercial Atlantis Plaza",
+        "address": "Cl. 81 ##13-05, Bogot\u00e1, Cundinamarca, Colombia",
+        "types": [
+            "atm",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6660742,
+            "lng": -74.05566150000001
+        },
+        "rating": 4.5,
+        "rating_n": 2,
+        "international_phone_number": "+57 601 6066200"
+    }
+]

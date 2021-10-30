@@ -1,0 +1,333 @@
+[
+    {
+        "id": "ChIJJ2eG1eObP44RQFIWl7g0t0Y",
+        "name": "Miranda Club",
+        "address": "Cra. 14 ##82, 51, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6676502,
+            "lng": -74.05546
+        },
+        "rating": 2.7,
+        "rating_n": 12
+    },
+    {
+        "id": "ChIJtZ6WIfWaP44RD-Rdn5PL1Uc",
+        "name": "Club Blissw",
+        "address": "Cra. 14 ##83-44, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.668469,
+            "lng": -74.0548651
+        }
+    },
+    {
+        "id": "ChIJESKuuZibP44RHsLPz41YtUo",
+        "name": "The Office 301",
+        "address": "avenida calle 85 #14 43 3er piso, Ac. 85 ##14-43, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6696346,
+            "lng": -74.0549583
+        }
+    },
+    {
+        "id": "ChIJuUKawAebP44R7UyBIQEKedg",
+        "name": "Lio Bar.",
+        "address": "Cl. 84A ## 14 - 34, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6692827,
+            "lng": -74.05490200000001
+        },
+        "rating": 3.3,
+        "rating_n": 53,
+        "international_phone_number": "+57 302 2716630",
+        "time_spent": [
+            120,
+            330
+        ]
+    },
+    {
+        "id": "ChIJhaFpxvSaP44RPUSTB2MI1Ic",
+        "name": "BARRA COPA",
+        "address": "Cra. 14 #8514, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.669709699999999,
+            "lng": -74.054368
+        }
+    },
+    {
+        "id": "ChIJ2ZOP5_SaP44RBM7owYAI44o",
+        "name": "Gnoveva",
+        "address": "Cll 84 # 14 - 44, Zona Rosa, Bogot\u00e1, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.66923,
+            "lng": -74.05502
+        },
+        "rating": 3.2,
+        "rating_n": 68,
+        "international_phone_number": "+57 300 4886678",
+        "time_spent": [
+            150,
+            300
+        ]
+    },
+    {
+        "id": "ChIJCQ9xpfSaP44RaK-L7GnqrT0",
+        "name": "Casanova",
+        "address": "a 14-67, Cl. 86a #1431, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6707029,
+            "lng": -74.0543076
+        }
+    },
+    {
+        "id": "ChIJFV_mIPWaP44Red_6t-wfqgM",
+        "name": "Aajum Primer Piso",
+        "address": "Cra. 14 #62, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6685869,
+            "lng": -74.054722
+        }
+    },
+    {
+        "id": "ChIJ_UPKo1-aP44RolplgbYj6Qk",
+        "name": "Club Star Zari",
+        "address": "Cra. 13 #40, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.664831999999999,
+            "lng": -74.055998
+        }
+    },
+    {
+        "id": "ChIJS27-0oqaP44RFrkG2XjJrHc",
+        "name": "sharks poker room",
+        "address": "Cl. 81 ##12-44, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6658879,
+            "lng": -74.0544287
+        },
+        "international_phone_number": "+57 310 7500401"
+    },
+    {
+        "id": "ChIJxSZJ1oqaP44RgImEbNQ7Jik",
+        "name": "EL MOZO",
+        "address": "Ac. 85 #12-51, Localidad de Chapinero, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6686496,
+            "lng": -74.0531374
+        },
+        "rating": 4.2,
+        "rating_n": 428,
+        "international_phone_number": "+57 313 4229260"
+    },
+    {
+        "id": "ChIJSer9wPSaP44RY5Jc_rwI6jY",
+        "name": "Armando Records",
+        "address": "Avenida Calle 85#14-46, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.670004099999999,
+            "lng": -74.0547668
+        },
+        "rating": 4.1,
+        "rating_n": 578,
+        "time_spent": [
+            15,
+            90
+        ]
+    },
+    {
+        "id": "ChIJS9F05F-aP44RH913yK3EYp4",
+        "name": "Gnoveva",
+        "address": "Cl. 81 #1134, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.665343700000001,
+            "lng": -74.05389269999999
+        },
+        "rating": 1,
+        "rating_n": 2,
+        "international_phone_number": "+57 300 4886678"
+    },
+    {
+        "id": "ChIJxzu_nF-aP44RFe9tJbbzF-M",
+        "name": "Bar Rockola El Madrigal",
+        "address": "Cra. 13a #65, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.665566999999999,
+            "lng": -74.056167
+        }
+    },
+    {
+        "id": "ChIJBy2K4fSaP44R1TpR6LDhJm8",
+        "name": "The Rooms Club",
+        "address": "Cra 14 a # 83-49 313 8019144, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6688443,
+            "lng": -74.0553118
+        },
+        "rating": 3.2,
+        "rating_n": 19,
+        "international_phone_number": "+57 313 8019144"
+    },
+    {
+        "id": "ChIJyUioe_WaP44RaUkEfrMPZBE",
+        "name": "El Padrino",
+        "address": "Cl. 81 #12-95, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6657848,
+            "lng": -74.05509669999999
+        },
+        "rating": 5,
+        "rating_n": 1
+    },
+    {
+        "id": "ChIJw-171IqaP44RGgaUo6bB390",
+        "name": "Clandestino Club",
+        "address": "piso 3, del Casino, Ac. 82 ### 12 \u2013 50, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6683596,
+            "lng": -74.0534831
+        },
+        "rating": 4.1,
+        "rating_n": 135,
+        "international_phone_number": "+57 316 4494510",
+        "time_spent": [
+            120,
+            270
+        ]
+    },
+    {
+        "id": "ChIJCbs8rvSaP44Rj5GdU_yuXik",
+        "name": "Floyd",
+        "address": "Cl. 86a #13a-30, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6706485,
+            "lng": -74.0538512
+        },
+        "rating": 3.9,
+        "rating_n": 28,
+        "international_phone_number": "+57 300 7218814"
+    },
+    {
+        "id": "ChIJU0BhlfSaP44R0ab2BV9cZOw",
+        "name": "Bar Tropical Kocktail",
+        "address": "Ac. 85 #64, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.670059999999999,
+            "lng": -74.054999
+        },
+        "rating": 5,
+        "rating_n": 1
+    },
+    {
+        "id": "ChIJ2xrkK_WaP44RxNbMaLd1IyE",
+        "name": "El Pic\u00f3",
+        "address": "Ac. 82, Bogot\u00e1, Colombia",
+        "types": [
+            "night_club",
+            "point_of_interest",
+            "establishment"
+        ],
+        "coordinates": {
+            "lat": 4.6684378,
+            "lng": -74.05385369999999
+        },
+        "rating": 4.5,
+        "rating_n": 26,
+        "international_phone_number": "+57 317 3714106"
+    }
+]
