@@ -4,7 +4,7 @@ library(shiny)
 library(tidyverse)
 
 #Set the path where the data is located
-setwd("")
+#setwd("")
 
 ui <- fluidPage(
   selectInput("dato", "Archivo: ",
